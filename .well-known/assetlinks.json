@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.arqjimenezmarcos.twa",
+        "sha256_cert_fingerprints": ["73:1F:F7:2B:70:5F:82:B5:F6:A5:E0:F0:B1:AA:54:71:A0:92:B5:38:3D:8C:11:08:BA:9D:2B:AC:2D:1E:BA:B5"]
+      }
+    }]
